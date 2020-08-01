@@ -1,0 +1,2 @@
+# TypescriptNotes
+Learning Typescript foundations
